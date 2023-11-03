@@ -1,0 +1,7 @@
+.bsp
+target
+.bloop
+.metals
+.direnv
+.vscode
+metals.sbt
